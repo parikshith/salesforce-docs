@@ -1,6 +1,6 @@
 
 <div align="center">
-<img alt="Salesforce Development Standards" src ="img/screenshot.png" />
+<img alt="Salesforce Development Standards" src ="" />
 </div>
 
 **Status**:  Live "production" version 2.0.1  
